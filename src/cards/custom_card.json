@@ -1,0 +1,51 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "direction": "ltr",
+  "body": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://hansen-cpa.com.tw/wp-content/uploads/2024/11/正面-涂.webp",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://hansen-cpa.com.tw/"
+        }
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://hansen-cpa.com.tw/"
+    },
+    "margin": "0px",
+    "spacing": "0px",
+    "width": "100%",
+    "height": "233px",
+    "borderWidth": "0px",
+    "alignItems": "center",
+    "offsetTop": "0px",
+    "offsetBottom": "0px",
+    "offsetStart": "0px",
+    "offsetEnd": "0px",
+    "paddingAll": "0px",
+    "position": "relative"
+  },
+  "action": {
+    "type": "uri",
+    "label": "action",
+    "uri": "http://linecorp.com/"
+  },
+  "styles": {
+    "header": {
+      "separator": false
+    },
+    "hero": {
+      "separator": false
+    }
+  }
+}
